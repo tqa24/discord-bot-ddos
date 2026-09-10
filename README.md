@@ -4,7 +4,7 @@
 
 You can contact me if we have a problem :
 
-- 💬 Join me on Discord: @ilynyne id = 1000013218544103514
+- 💬 Join me on Discord: @ilynyn id = 1321956736105713735
 
 ## Preview 👀
 ![Image](https://raw.githubusercontent.com/mich0a/discord-bot-ddos/main/fgfg.PNG)
